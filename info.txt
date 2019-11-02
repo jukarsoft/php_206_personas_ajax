@@ -1,0 +1,6 @@
+el ejercicio es una réplica del ejercicio 206, pero utilizando AJAX
+
+
+1falta cambiar relacion de registros a js
+	ahora esta por SESSION hay que pasarlo a LocalStorage o a fichero secuencial (mejor esta ultima opcion file_puts_content)
+											
